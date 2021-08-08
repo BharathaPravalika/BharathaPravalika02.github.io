@@ -1,0 +1,49 @@
+/**{
+	margin: 0;
+	padding: 0;
+	
+}*/
+.navbar{
+
+border: none;
+background-color: black;
+color: #61122F;
+}
+body{
+	background-color: white;
+	font-color: black;
+}
+h1{
+	text-align:center;
+}
+.glyphicon{
+	font-size: 30px;
+	color:#61122F; 
+}
+
+.center{
+	width: 90%;
+	background-color: grey;
+
+}
+.container
+{
+	background-color: grey;
+	font-color:#000000;
+}
+.text-center{
+	font-size: 30px;
+}
+#home-titles{
+	font-family: Times of Roman;
+}
+h2{
+	text-align: center;
+}
+#myNavbar ul li a span {
+	color: white;
+}
+.navbar-brand{
+font-size: 30px;	
+}
+@media(min-width:)
